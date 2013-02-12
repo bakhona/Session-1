@@ -1,6 +1,6 @@
 	Session-1
 	=========
-	Bakhona Madiane
+	Bakhona Madikane
 	----------------
 
 	+ITC401T - INTERNET PROGRAMMING AND E-COMMERCE IV.
