@@ -1,5 +1,7 @@
-Session-1
-=========
+	Session-1
+	=========
+	Bakhona Madikane
+	----------------
 
 <<<<<<< HEAD
 	+ITC401T - INTERNET PROGRAMMING AND E-COMMERCE IV.
@@ -15,6 +17,11 @@ Session-1
 	-========
 	-
 	-Notes:
+<<<<<<< HEAD
 =======
 ITC401T - INTERNET PROGRAMMING AND E-COMMERCE IV.
 >>>>>>> origin/master
+=======
+
+	
+>>>>>>> origin/SubMaster
