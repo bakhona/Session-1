@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 	Session-1
 	=========
 	Bakhona Madikane
@@ -25,3 +26,9 @@ ITC401T - INTERNET PROGRAMMING AND E-COMMERCE IV.
 
 	
 >>>>>>> origin/SubMaster
+=======
+Session-1
+=========
+
+ITC401T - INTERNET PROGRAMMING AND E-COMMERCE IV.
+>>>>>>> bfc78d088e4972b7b60b2c320795652220c75350
