@@ -1,10 +1,9 @@
-<<<<<<< HEAD
+
 	Session-1
 	=========
 	Bakhona Madikane
 	----------------
 
-<<<<<<< HEAD
 	+ITC401T - INTERNET PROGRAMMING AND E-COMMERCE IV.
 	 
 	-Email         bakhona.madikane@igt.com or conez14@gmail.com
@@ -18,17 +17,3 @@
 	-========
 	-
 	-Notes:
-<<<<<<< HEAD
-=======
-ITC401T - INTERNET PROGRAMMING AND E-COMMERCE IV.
->>>>>>> origin/master
-=======
-
-	
->>>>>>> origin/SubMaster
-=======
-Session-1
-=========
-
-ITC401T - INTERNET PROGRAMMING AND E-COMMERCE IV.
->>>>>>> bfc78d088e4972b7b60b2c320795652220c75350
